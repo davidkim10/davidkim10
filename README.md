@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi 👋
 
-#### I am UX Engineer / Front-End Developer located in NYC.
+#### UX Engineer / Front-End Developer located in NYC.
+
+Currently @ Walmart Global Tech.
 
 I enjoy working with modern front-end frameworks, but recently I have been spending a majority of my time with React. My day-to-day consists of JavaScript, TypeScript, NodeJS and React.
 
@@ -14,3 +16,27 @@ I enjoy working with modern front-end frameworks, but recently I have been spend
 
 &nbsp;
 <p>I enjoy tech, finance, and a good cup of :coffee:</p>
+
+#### Tools & Technologies
+<ul>
+   <li>JavaScript</li>
+   <li>TypeScript</li>
+   <li>React</li>
+   <li>FAST</li>
+   <li>NodeJS</li>
+   <li>GraphQL</li>
+   <li>HTML</li>
+   <li>CSS</li>
+   <li>Go</li>
+   <li>MongoDB</li>
+   <li>Git</li>
+   <li>Docker</li>
+   <li>Storybook</li>
+   <li>Gatsby</li>
+   <li>NextJS</li>
+   <li>WordPress</li>
+   <li>Optimizely <em>(Fun fact: I have run hundreds of tests and my plugin implementation has been documented on FullStory)</em></li>
+   <li>Sketch</li>
+   <li>Figma</li>
+   <li>Photoshop</li>
+</ul>
