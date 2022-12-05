@@ -33,7 +33,7 @@ I enjoy working with modern front-end frameworks, but recently I have been spend
    <li>Gatsby</li>
    <li>NextJS</li>
    <li>WordPress</li>
-   <li>Optimizely <em>(Fun fact: I have run hundreds of tests and my plugin implementation has been documented on FullStory)</em></li>
+   <li>Optimizely <em>(Fun fact: I have ran hundreds of tests and my plugin implementation has been documented on FullStory)</em></li>
    <li>Sketch</li>
    <li>Figma</li>
    <li>Photoshop</li>
