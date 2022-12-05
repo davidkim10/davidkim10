@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-UX Engineer / Front-End Developer in NYC.
+#### I am UX Engineer / Front-End Developer located in NYC.
 
-I enjoy working with modern frameworks, but recently I have been spending a majority of my time with React. My day-to-day consists of Javscript, TypeScript, NodeJS and React.
+I enjoy working with modern front-end frameworks, but recently I have been spending a majority of my time with React. My day-to-day consists of JavaScript, TypeScript, NodeJS and React.
 
 
 <div>
@@ -12,17 +12,5 @@ I enjoy working with modern frameworks, but recently I have been spending a majo
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
-<!--
-**davidkim10/davidkim10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+<p>I enjoy tech, finance, and a good cup of :coffee:</p>
