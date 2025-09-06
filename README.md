@@ -1,4 +1,4 @@
-UX Engineer / Front-End Developer working in NYC.<br><br>Currently @ Fun.xyz.<br><br>I enjoy working with modern front-end frameworks, but recently I have been spending a majority of my time with React. My day-to-day consists of TypeScript, NodeJS and React.
+UX Engineer / Front-End Developer working in NYC.<br><br>Currently @ Fun.xyz
 
 
 ### 💻 Tools & Technologies:
